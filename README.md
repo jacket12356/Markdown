@@ -117,7 +117,7 @@ E-->B
 D-->END[完成]
 ```
 ![md](https://github.com/jacket12356/Markdown/blob/master/a/1.png)  
-**看样子是github并不支持流程图和甘特图
+** 看样子是github并不支持流程图和甘特图 **
   
   
 ### 甘特图
