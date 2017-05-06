@@ -116,9 +116,9 @@ B2-->E[注册完成]
 E-->B
 D-->END[完成]
 ```
-![md]()
-  
-  
+![md](https://github.com/jacket12356/Markdown/blob/master/a/1.png)  
+**看样子是github并不支持流程图和甘特图
+  
   
 ### 甘特图
 ```
@@ -132,3 +132,4 @@ section 中期
 section 后期
 系统测试:2016-11-26,26d
 ```
+![md](https://github.com/jacket12356/Markdown/blob/master/a/2.png)  
